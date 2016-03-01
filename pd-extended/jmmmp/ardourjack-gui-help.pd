@@ -1,0 +1,3 @@
+#N canvas 436 287 450 300 10;
+#X obj 165 118 ardourjack-gui;
+#X text 92 42 controls your ardour settings from Pd;

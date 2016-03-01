@@ -1,0 +1,6 @@
+#N struct 1021-graph float x float y float dist float resol float width
+float stres array 1021-boxes 1021-box;
+#N struct 1021-box float y float width;
+#N canvas 0 22 450 300 10;
+#X obj 143 113 array+;
+#X text 68 69 array+ help placeholder;

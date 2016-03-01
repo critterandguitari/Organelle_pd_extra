@@ -1,0 +1,9 @@
+#N canvas 10 10 200 200 10;
+#N canvas 20 20 420 300 META 0;
+#X text 10 10 META this is a prototype of a libdir meta file;
+#X text 10 30 NAME creb;
+#X text 10 50 AUTHOR Tom Schouten <tom@zwizwa.be>;
+#X text 10 70 DESCRIPTION This is a collection of pd externals. My bag of tricks.;
+#X text 10 90 LICENSE GNU GPL 2;
+#X text 10 110 VERSION 0.9.2.svn15787;
+#X restore 10 10 pd META;
