@@ -1,5 +1,5 @@
 # Organelle_pd_extra
-External objects from pd-extended compiled for Pd on the Organelle.  
+External objects compiled for Pd on the Organelle.  
 
 # How to use
 Inside the pd-extended folder are many libraries of objects and associated help patches.
@@ -15,4 +15,4 @@ Then to use, for example, the counter object from the cyclone library,  your pat
 
 [declare -path ../../pd-extended/cyclone]
 
-For deploying / distributing / sharing patches it might be better to actually copy the needed objects into your patch folder so it is self-contained,  this way the patch will work even if someone doesn't have all the objects copied to their USB drive.
+For deploying / distributing / sharing patches it is better to copy the needed objects into your patch folder so it is self-contained,  this way the patch will work even if someone doesn't have all the objects copied to their USB drive.
